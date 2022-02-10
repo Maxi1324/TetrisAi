@@ -1,0 +1,1 @@
+.\Emulator\Mesen.exe ' .\Emulator\Tetris (Europe).nes' '.\Emulator\MainScript.lua'

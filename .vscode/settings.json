@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "pyautogui"
+    ],
+    "Lua.diagnostics.globals": [
+        "integer",
+        "as"
+    ],
+    "python.pythonPath": "TetrisAIEn\\Scripts\\python.exe"
+}

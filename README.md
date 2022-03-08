@@ -19,7 +19,7 @@ My Motivation for this Project was to learn python and make experience with Ai. 
 
 ## Goal Definition
 
-My goal was it to create a programm which can Play Tetris. I wanted to use reinforcement learning for the learning Algorithm . As a programming language i wanted to use Python, which i never really used.
+My goal was it to create a programm which can Play Tetris. I wanted to use reinforcement learning for the learning Algorithm . As a programming language i wanted to use Python, which i never really used befor.
 <br>
 I don't wanted to reprogramm Tetris. I thought it was faster to use an emulator and write a Lua script which communicates with my Python programm via Sockets. 
 <br>

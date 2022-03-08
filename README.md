@@ -14,7 +14,7 @@ This is my try of creating a Tetris Ai.
 
 ## Motivation
 
-My Motivation for this Project was learn python and make experience with Ai. This Project was also made for School.
+My Motivation for this Project was to learn python and make experience with Ai. This Project was also made for School.
 
 
 ## Goal Definition
